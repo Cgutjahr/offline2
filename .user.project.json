@@ -1,0 +1,189 @@
+{
+  "run": [
+    {
+      "filePath": "/offline2/webapp/test/flpSandbox.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        },
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        }
+      ],
+      "hashParameter": "offlline2-display",
+      "ui5ActiveVersion": "snapshot",
+      "ui5VerSource": null,
+      "isDefaultVersion": 1,
+      "_metadata": {
+        "id": "4612028",
+        "runnerId": "webapprunner",
+        "displayName": "App in FLP Sandbox",
+        "lastRunTimeStamp": 1521986666287
+      }
+    },
+    {
+      "filePath": "/offline2/webapp/test/flpSandboxMockServer.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        },
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        }
+      ],
+      "hashParameter": "offlline2-display",
+      "ui5ActiveVersion": "snapshot",
+      "ui5VerSource": null,
+      "isDefaultVersion": 1,
+      "_metadata": {
+        "id": "4608617",
+        "runnerId": "webapprunner",
+        "displayName": "App in FLP Sandbox (Mock Server)"
+      }
+    },
+    {
+      "filePath": "/offline2/webapp/test/unit/unitTests.qunit.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": "snapshot",
+      "ui5VerSource": null,
+      "isDefaultVersion": 1,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        },
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        }
+      ],
+      "_metadata": {
+        "id": "3828104",
+        "runnerId": "webapprunner",
+        "displayName": "Unit Tests"
+      }
+    },
+    {
+      "filePath": "/offline2/webapp/test/integration/opaTests.qunit.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": "snapshot",
+      "ui5VerSource": null,
+      "isDefaultVersion": 1,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        },
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        }
+      ],
+      "hashParameter": "",
+      "_metadata": {
+        "id": "8540286",
+        "runnerId": "webapprunner",
+        "displayName": "OPA Tests"
+      }
+    },
+    {
+      "filePath": "/offline2/webapp/test/testsuite.qunit.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": "snapshot",
+      "ui5VerSource": null,
+      "isDefaultVersion": 1,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        },
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        }
+      ],
+      "hashParameter": "",
+      "_metadata": {
+        "id": "2139465",
+        "runnerId": "webapprunner",
+        "displayName": "Test Suite (Unit, OPA)"
+      }
+    },
+    {
+      "filePath": "/offline2/webapp/Component.js",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": "snapshot",
+      "ui5VerSource": null,
+      "isDefaultVersion": 1,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        },
+        {
+          "paramName": "",
+          "paramValue": "",
+          "paramActive": false
+        }
+      ],
+      "hashParameter": "",
+      "_metadata": {
+        "id": "9343427",
+        "runnerId": "fiorirunner",
+        "displayName": "App as Fiori Component"
+      }
+    }
+  ],
+  "hybrid": {
+    "dirty": false,
+    "cordovaContainerId": "d2e908b5d8dce678440eeefa744bec4a",
+    "cordovaPackageId": "0d868b34d3f75454b74f71bbc6f906b2",
+    "commonError": "",
+    "callStart": "2018-03-25T23:54:41.225Z",
+    "packagingEnd": "2018-03-25T23:56:25.782Z",
+    "packagingStart": "2018-03-25T23:55:22.992Z",
+    "results": {
+      "ios": {},
+      "android": {
+        "requested": true,
+        "buildStart": "2018-03-25T23:56:46.345Z",
+        "errorMessage": "",
+        "error": "",
+        "done": true,
+        "appId": "f08194eb7d9c04c31dd47520dff17b06",
+        "appVersion": "1.1",
+        "downloadPath": "https://trial-p1942663516trial.sapmobileplace.com/public-api.svc/download/f08194eb7d9c04c31dd47520dff17b06%3Fhmac%3D963501e262303257308461d403c4e0ee0885a35438b56a5982377fbf6172e3ca%26expires%3D2018-04-25T00%3A00%3A36%2B00%3A00%26logToken%3Df16c2721308cd3a237f661b9a9f56e38"
+      }
+    },
+    "hcpmsAppId": "com.sap.fiorimobile.xd2e908b5d8dce678440eeefa744bec4a"
+  }
+}
