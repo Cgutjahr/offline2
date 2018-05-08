@@ -1,3 +1,4 @@
+/*eslint linebreak-style: ["error", "unix"]*/
 sap.ui.define([
 		"com/spyvee/offline2/controller/BaseController",
 		"sap/ui/model/json/JSONModel"

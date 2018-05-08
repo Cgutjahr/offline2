@@ -1,3 +1,4 @@
+/*eslint linebreak-style: ["error", "unix"]*/
 sap.ui.define([
 		"sap/ui/base/Object",
 		"sap/m/GroupHeaderListItem"

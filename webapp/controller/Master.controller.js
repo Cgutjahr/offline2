@@ -1,3 +1,4 @@
+/*eslint linebreak-style: ["error", "unix"]*/
 /*global history */
 sap.ui.define([
 		"com/spyvee/offline2/controller/BaseController",

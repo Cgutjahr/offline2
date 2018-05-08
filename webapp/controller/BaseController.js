@@ -1,3 +1,4 @@
+/*eslint linebreak-style: ["error", "unix"]*/
 /*global history */
 sap.ui.define([
 		"sap/ui/core/mvc/Controller",
